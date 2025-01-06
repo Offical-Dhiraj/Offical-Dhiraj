@@ -24,8 +24,8 @@ I'm Dhiraj Kumar, a developer with a passion for technology and innovation. I of
 ---
 
 ## 📫 Contact Me
-- **Email**: [saini99055@gmail.com](saini99055@gmail.com)
-- **LinkedIn**: [Dhiraj Kumar](www.linkedin.com/in/officail-dhirajkr)
+- **Email**: [saini99055@gmail.com](mailto:saini99055@gmail.com)
+- **LinkedIn**: [Dhiraj Kumar](https://www.linkedin.com/in/officail-dhirajkr)
 
 Feel free to reach out for collaborations, project inquiries, or just to connect!
 
