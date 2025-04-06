@@ -17,7 +17,7 @@ I'm Dhiraj Kumar, a developer with a passion for technology and innovation. I of
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages**: HTML, CSS, C/C++, JavaScript , java (currently learning)
+- **Programming Languages**: HTML, CSS, C/C++, JavaScript, java (currently learning)
 - **Frameworks**: Bootstrap
 - **Tools and Platforms**: Git, GitHub
 
