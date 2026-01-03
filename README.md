@@ -69,8 +69,6 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
 
 <img src="https://nirzak-streak-stats.vercel.app?user=Offical-Dhiraj&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Offical-Dhiraj&theme=radical" alt="GitHub Trophies" width="100%">
-
 <img src="https://komarev.com/ghpvc/?username=Offical-Dhiraj&style=for-the-badge&color=brightgreen" alt="Visitor Count" width="100%">
 
 ## 🌊 Animated Wave Footer
