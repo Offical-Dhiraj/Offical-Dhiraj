@@ -35,8 +35,30 @@ I'm Dhiraj Kumar, a developer with a passion for technology and innovation. I of
 Feel free to reach out for collaborations, project inquiries, or just to connect!
 
 ---
+---
 
+## 📊 GitHub Overview
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Offical-Dhiraj&show_icons=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offical-Dhiraj&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Offical-Dhiraj&no-frame=true&row=1&column=6" />
+</p>
+
+---
 
 ## 📈 GitHub Stats
 
@@ -56,3 +78,4 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="wave footer"/>
 </p>
+
