@@ -1,79 +1,82 @@
-# Dhiraj Kumar
-
-
-![Banner](./banner.png)
+# 👋 Hi, I'm Dhiraj Kumar  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+There+%F0%9F%91%8B;I'm+Dhiraj+Kumar;Full-Stack+Learner+%7C+Backend+Explorer;Passionate+About+Modern+Web+Development" alt="typing header"/>
-</p>
-
-### Welcome to my GitHub profile!
-
-I'm Dhiraj Kumar, a developer with a passion for technology and innovation. I offer a comprehensive range of services, including e-commerce account management and website building.
-
----
-
-## 🌟 Highlights
-
-- **B. Tech Holder**: Currently pursing Bachlor's of Technology in Computer Science and Engg. at OIST, Bhopal.
-- **Diploma Holder**: Proud recipient of a diploma, constantly striving to expand my knowledge and skills.
-
----
-
-## 🛠️ Skills and Technologies
-
-- **Programming Languages**: HTML, CSS, C/C++, JavaScript, java (currently learning)
-- **Frameworks**: Bootstrap
-- **Tools and Platforms**: Git, GitHub
-
----
-
-## 📫 Contact Me
-- **Email**: [saini99055@gmail.com](mailto:saini99055@gmail.com)
-- **LinkedIn**: [Dhiraj Kumar](https://www.linkedin.com/in/officail-dhirajkr)
-
-Feel free to reach out for collaborations, project inquiries, or just to connect!
-
----
----
-
-## 📊 GitHub Overview
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Offical-Dhiraj&show_icons=true&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offical-Dhiraj&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Offical-Dhiraj&no-frame=true&row=1&column=6" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Learner;Building+Real-World+Projects;Open+to+Opportunities" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 About Me  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Offical-Dhiraj&show_icons=true&theme=radical" alt="Dhiraj's GitHub stats" width="100%">
+- 🎓 B.Tech CSE Student (OIST, Bhopal)  
+- 💻 Focused on **MERN Stack Development**  
+- 🔥 Building real-world projects  
+- 📈 Preparing for **placements (SDE roles)**  
+- ⚡ Love backend + system design  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offical-Dhiraj&layout=compact&theme=radical" alt="Top Languages" width="100%">
+---
 
-
-<img src="https://nirzak-streak-stats.vercel.app?user=Offical-Dhiraj&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%">
-
-<img src="https://komarev.com/ghpvc/?username=Offical-Dhiraj&style=for-the-badge&color=brightgreen" alt="Visitor Count" width="100%">
-
-## 🌊 Animated Wave Footer
+## 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="wave footer"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode" />
 </p>
 
+---
+
+## 🛠️ Current Focus  
+
+- 🔹 Advanced MERN Stack  
+- 🔹 Data Structures & Algorithms  
+- 🔹 System Design Basics  
+- 🔹 Real-world project deployment  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Offical-Dhiraj&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offical-Dhiraj&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Offical-Dhiraj&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Offical-Dhiraj&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:saini99055@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/officail-dhirajkr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Quote  
+
+> “Consistency beats talent when talent doesn’t work hard.”  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
+</p>
